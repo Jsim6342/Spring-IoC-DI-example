@@ -1,4 +1,4 @@
-package com.example.demo.game;
+package com.example.demo.runner.game;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

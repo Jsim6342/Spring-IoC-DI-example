@@ -1,6 +1,6 @@
 package com.example.demo.application;
 
-import com.example.demo.game.AGame;
+import com.example.demo.runner.game.AGame;
 import com.example.demo.runner.ClassGameRunner;
 
 public class ClassCase {

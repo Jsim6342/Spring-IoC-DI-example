@@ -1,6 +1,6 @@
 package com.example.demo.runner;
 
-import com.example.demo.game.AGame;
+import com.example.demo.runner.game.AGame;
 
 public class ClassGameRunner {
     private AGame aGame;

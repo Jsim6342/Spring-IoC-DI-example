@@ -1,8 +1,6 @@
 package com.example.demo.runner;
 
-import com.example.demo.game.Game;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
+import com.example.demo.runner.game.Game;
 import org.springframework.stereotype.Component;
 
 @Component

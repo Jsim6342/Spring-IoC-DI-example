@@ -1,7 +1,7 @@
 package com.example.demo.application;
 
-import com.example.demo.game.CGame;
-import com.example.demo.game.Game;
+import com.example.demo.runner.game.CGame;
+import com.example.demo.runner.game.Game;
 import com.example.demo.runner.InterfaceGameRunner;
 
 public class InterfaceCase {
